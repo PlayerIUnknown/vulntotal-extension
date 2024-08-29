@@ -36,3 +36,7 @@ View the results displayed in the extension's interface.
 ## Screenshots
 ![results](https://github.com/user-attachments/assets/88fbea09-cf75-4b79-bd16-b51289162fe4)
 ![settings](https://github.com/user-attachments/assets/baec3721-24f0-4332-9c98-5cc431350191)
+
+## Sneak peak
+![sneak-peak](https://github.com/user-attachments/assets/07966663-9f89-4b80-9db3-0840e246d2c5)
+
